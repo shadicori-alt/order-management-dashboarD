@@ -1,0 +1,5 @@
+# نسخ ملف الإعدادات
+cp .env.template .env
+
+# تحرير الإعدادات
+nano .env
