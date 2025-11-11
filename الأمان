@@ -1,0 +1,8 @@
+# إعدادات الأمان المتقدم
+ENABLE_2FA=false
+ENABLE_RATE_LIMITING=true
+ENABLE_CORS=true
+
+# إعادة تعيين كلمات المرور
+FLASK_ENV=production
+DEBUG=false
