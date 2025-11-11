@@ -1,0 +1,8 @@
+# عرض آخر الأسطر
+tail -f lastbot_comprehensive.log
+
+# البحث عن أخطاء
+grep "ERROR" lastbot_comprehensive.log
+
+# عرض معلومات مفصلة
+grep "INFO" lastbot_comprehensive.log
