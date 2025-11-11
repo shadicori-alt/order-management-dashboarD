@@ -1,0 +1,5 @@
+# عرض السجلات
+tail -f lastbot_comprehensive.log
+
+# البحث عن الأخطاء
+grep "ERROR" lastbot_comprehensive.log
