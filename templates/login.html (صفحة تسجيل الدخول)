@@ -1,0 +1,7 @@
+# فتح الملف في المتصفح
+open templates/login.html
+
+# أو استخدام خادم محلي
+cd templates/
+python -m http.server 8000
+# ثم زيارة: http://localhost:8000/login.html
