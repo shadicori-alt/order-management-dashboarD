@@ -1,0 +1,2 @@
+DATABASE_PATH=data/intelligent_bot.db
+DB_TYPE=sqlite  # للمشاريع الصغيرة
