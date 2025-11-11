@@ -1,0 +1,8 @@
+# تشغيل جميع الخدمات
+docker-compose up
+
+# تشغيل في الخلفية
+docker-compose up -d
+
+# إيقاف الخدمات
+docker-compose down
