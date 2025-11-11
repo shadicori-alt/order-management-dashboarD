@@ -1,0 +1,5 @@
+# إيقاف النظام
+pkill -f LastBot_Complete_Standalone.py
+
+# تشغيل مرة أخرى
+python LastBot_Complete_Standalone.py
