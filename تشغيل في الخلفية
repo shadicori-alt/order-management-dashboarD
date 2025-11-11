@@ -1,0 +1,5 @@
+# تشغيل في الخلفية
+nohup python LastBot_Complete_Standalone.py > lastbot.log 2>&1 &
+
+# فحص الحالة
+ps aux | grep LastBot
