@@ -1,0 +1,5 @@
+# عرض العمليات المرتبطة بـ Last.bot
+ps aux | grep LastBot
+
+# عرض استخدام المنفذ
+netstat -tulpn | grep :5000
