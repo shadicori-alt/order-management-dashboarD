@@ -1,0 +1,4 @@
+LastBot_Complete_Standalone.py     # الملف الرئيسي الشامل (1500+ سطر)
+requirements_standalone.txt         # متطلبات شاملة
+README_Standalone.md               # توثيق عربي
+README.md                         # توثيق إنجليزي
