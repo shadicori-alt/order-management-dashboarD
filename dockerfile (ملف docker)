@@ -1,0 +1,8 @@
+# بناء الصورة
+docker build -t lastbot .
+
+# تشغيل الحاوية
+docker run -p 5000:5000 lastbot
+
+# تشغيل مع متغيرات البيئة
+docker run -p 5000:5000 --env-file .env lastbot
